@@ -6,9 +6,8 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://images.unsplash.com/photo-1564296787288-965670228331?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)"  />
-</div>
+![jr-korpa-jD1huE0iPk0-unsplash (6)](https://github.com/ryodaimatsui/ryodaimatsui/assets/137141385/274d167e-8b03-4ac2-8a56-73b1634c380e)
+
 
 ###
 
@@ -79,9 +78,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryodaimatsui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="175" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ryodaimatsui/ryodaimatsui/output/snake.svg" alt="Snake animation" />
 
 ###
