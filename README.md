@@ -6,12 +6,11 @@
 
 ###
 
-![jr-korpa-jD1huE0iPk0-unsplash (6)](https://github.com/ryodaimatsui/ryodaimatsui/assets/137141385/274d167e-8b03-4ac2-8a56-73b1634c380e)
-
+<h1 align="center">Welcome to my Github 👋🏻</h1>
 
 ###
 
-<h1 align="center">Welcome to my Github 👋🏻</h1>
+![jr-korpa-jD1huE0iPk0-unsplash (6)](https://github.com/ryodaimatsui/ryodaimatsui/assets/137141385/274d167e-8b03-4ac2-8a56-73b1634c380e)
 
 ###
 
